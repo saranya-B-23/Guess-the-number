@@ -16,4 +16,4 @@ def guess(x):
 
     print(f" Superb , you guessed the  number {random_number} correctly!!!") 
 
-guess()   #calling function
+guess(100)   #calling function
